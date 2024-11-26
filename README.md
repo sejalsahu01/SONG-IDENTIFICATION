@@ -1,4 +1,3 @@
-# SONG-IDENTIFICATION
 ## **Beat Bubble 🎶**
 Beat Bubble is an AI-powered music identification app. It lets you find a song by singing, humming, or playing a snippet of music. With an engaging UI and powerful audio recognition backend, it's perfect for music enthusiasts who want to identify tracks effortlessly.
 
